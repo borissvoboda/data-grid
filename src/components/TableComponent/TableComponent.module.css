@@ -1,0 +1,35 @@
+table.data_grid {
+  border-spacing: 0px;
+  border: 0px #a0a0a0 solid;
+}
+.rows_on_page {
+  padding: 5px;
+  font-weight: bold;
+}
+.rows_on_page_input {
+  font-weight: bold;
+  margin-left: 5px;
+  width: 20px;
+  text-align: center;
+}
+.current_page_input {
+  font-weight: bold;
+  margin-left: 5px;
+  width: 20px;
+  text-align: center;
+}
+.pagination {
+  padding: 5px;
+  font-weight: bold;
+}
+.pagination_button {
+  min-width: 3px;
+  padding: 5px;
+  padding-left: 9px;
+  padding-right: 9px;
+  margin-left: 2px;
+  margin-right: 2px;
+  text-align: center;
+  font-weight: bold;
+}
+
